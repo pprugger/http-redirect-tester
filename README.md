@@ -12,6 +12,9 @@ At the moment this tool only runs on linux.
 This tools uses httpie to do the requests and follow the redirect chain.
 For dns checks nslookup is also required.
 
+# Python
+Tested with python 3.11
+
 ## Installation
 
 Just clone the repo and run the python file.
