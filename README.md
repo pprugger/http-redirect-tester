@@ -22,7 +22,7 @@ Just clone the repo and run the python file.
 
 ## Demo
 
-![Example]img/example.png
+![Example](img/example.png)
 
 ## Authors
 - [@pprugger](https://www.github.com/pprugger)
