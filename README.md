@@ -18,11 +18,11 @@ Just clone the repo and run the python file.
 
 
 ## Usage
-![img/usage.png]
+![Usage](img/usage.png)
 
 ## Demo
 
-![example.png]
+![Example]img/example.png
 
 ## Authors
 - [@pprugger](https://www.github.com/pprugger)
